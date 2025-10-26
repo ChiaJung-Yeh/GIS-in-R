@@ -19,7 +19,7 @@ Yang Ming Chiao Tung University.
 
 ## Contact
 
-For any questions, please feel free to contact Chia Jung (Robert),
+For any questions, please feel free to contact Chia-Jung (Robert),
 Yeh.  
 Email:
 <a href="mailto:chia-jung.yeh@sydney.edu.au"><u><chia-jung.yeh@sydney.edu.au></u></a>
