@@ -15,7 +15,7 @@ This workshop is offered as part of the **Public Transport** course in
 the Department of Transportation and Logistics Management at National
 Yang Ming Chiao Tung University.
 
-<img src="./icon/NYCU_icon.png" width="60%" style="display: block; margin: auto;" />
+<img src="./icon/NYCU_icon.png" width="30%" style="display: block; margin: auto;" />
 
 ## Contact
 
